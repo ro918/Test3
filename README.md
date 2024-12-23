@@ -8,7 +8,6 @@
    	border:5px solid #ccc;
     	background-colour: #eee;}
  </style>
- </title>
 </head>
 </html>
-</body>
+
