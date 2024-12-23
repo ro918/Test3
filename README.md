@@ -12,7 +12,7 @@
 </head>
  <script>
   // Perform an action on button click
-  alert('Hello Aji')
+  alert('Hello Ajo')
  </script>
 </html>
 
