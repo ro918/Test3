@@ -11,7 +11,7 @@
  </style>
 </head>
  <script>
-  // Perform an action on button click
+  // Perform an action on close
   alert('Hello Ajo')
  </script>
 </html>
