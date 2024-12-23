@@ -12,7 +12,7 @@
 </head>
  <script>
   // Perform an action on close
-  alert('Hello Ajo')
+  alert('Close site? Changes may not be saved')
  </script>
 </html>
 
